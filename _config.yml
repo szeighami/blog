@@ -3,7 +3,7 @@ title:       EPIC blog posts
 email:       your_email@example.com
 author:      John Otander
 description: "Blog posts about data"
-baseurl: "/pixyll"
+baseurl: "/blog"
 url: "https://szeighami.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
