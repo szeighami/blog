@@ -6,6 +6,7 @@ description: "Blog posts about data"
 baseurl: "/pixyll"
 url: "https://szeighami.github.io"
 date_format: "%b %-d, %Y"
+header_pages:
 
 # Google services
 google_verification:
