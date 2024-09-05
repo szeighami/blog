@@ -12,6 +12,16 @@ Crafted with <3 by John Otander (@4lpine) - ©2015-2021 John Otander
 MIT License https://opensource.org/licenses/MIT
 
 */
+.figure {
+    text-align: center; 
+    font-family: 'Rasa', serif;
+    font-size: 18px; 
+    display: inline-block;
+    align-content: center;
+    max-width: 700px;
+    margin: auto;
+    float: left;
+}
 
 html, body {
   height: auto;
